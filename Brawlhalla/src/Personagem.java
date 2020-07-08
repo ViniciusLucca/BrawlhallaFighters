@@ -9,6 +9,7 @@
  * @author vini7
  */
 public class Personagem {
-    String nome;
+    String nome; 
+    int pontuacao;
     
 }
